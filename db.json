@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "1dcd",
+      "fullName": "manish",
+      "email": "manish@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9f5c",
+      "fullName": "Raj",
+      "email": "raj@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6228",
+      "fullName": "Ramesh Verma",
+      "email": "ramesh@gmail.com",
+      "password": "1023"
+    },
+    {
+      "id": "b4df",
+      "fullName": "Suresh",
+      "email": "suresh@gmail.com",
+      "password": "14789"
+    }
+  ]
+}
